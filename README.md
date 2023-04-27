@@ -1,2 +1,2 @@
-# Mathematical_Programming_Problem_Solving
-Mathematical_Programming_Problem_Solving
+# Mathematical_Problem_Solving_Programming
+Mathematical_Problem_Solving_Programming
